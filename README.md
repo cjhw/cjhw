@@ -23,5 +23,4 @@
 
 **github stats:**
 
-<img align="left"  src="https://github-readme-stats.vercel.app/api?username=caijianhaoa&count_private=true&show_icons=true" alt="caijianhao" />
-
+<img align="left"  src="https://github-readme-stats.vercel.app/api?username=caijianhaoa&show_icons=true" alt="caijianhao" />
