@@ -1,6 +1,6 @@
 ### Hey 👋, I'm cjhw.
 
-<a href="https://github.com/cjha/">
+<a href="https://github.com/cjhw/">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
