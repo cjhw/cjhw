@@ -12,7 +12,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨‍🏛 I am currently a student
-- 💻 Major is **Computer Science and Technology**.
+- 💻 Major is **electronic information engineering**.
 - 🌱 I'm currently learning **Web development**. 
 - 💬 If you have any questions, **just ask me**.
 - This is my email: **1784581164@qq.com**.
