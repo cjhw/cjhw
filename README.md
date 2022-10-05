@@ -26,7 +26,7 @@
 
 ### **github stats:**
 
-![cjhw GitHub stats](https://github-readme-stats.vercel.app/api?username=cjhw&show_icons=true&theme=radical) 
+  ![cjhw GitHub stats](https://github-readme-stats.vercel.app/api?username=cjhw&show_icons=true&theme=radical) 
 
 
 <img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif"> 
