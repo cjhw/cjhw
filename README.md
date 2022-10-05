@@ -9,7 +9,7 @@
 
 <img align="right" alt="jpg" width="250px" src="https://cdn.jsdelivr.net/gh/Jackyu-1999/CDN-Static@main/熊猫.jpg" />
 
-**Talking about Personal Stuffs:**
+### **Talking about Personal Stuffs:**
 
 - 👨‍🏛 I am currently a student
 - 💻 Major is **electronic information engineering**.
@@ -22,6 +22,6 @@
 
 <br />
 
-**github stats:**
+### **github stats:**
 
-<img align="left"  src="https://github-readme-stats.vercel.app/api?username=cjhw&show_icons=true" alt="caijianhao" />
+![](https://activity-graph.herokuapp.com/graph?username=cjhw&theme=react-dark)
