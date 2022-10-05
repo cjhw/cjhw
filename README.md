@@ -19,15 +19,16 @@
 
 - **If you like this readme file, please give me star! ❤️**
 
-<br />
+<p  align="center">
+<img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif"> 
+                  
+<br>
 
 ### **github stats:**
 
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=cjhw98&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=cjhw98&theme=cobalt&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=cjhw98&theme=dark&hide_border=true" />
 
 ### 技术栈
 
