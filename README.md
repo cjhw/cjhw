@@ -26,8 +26,11 @@
 
 ### **github stats:**
 
-<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=cjhw98&theme=cobalt&show_icons=true&count_private=true" />
-  <br></br>
+![cjhw GitHub stats](https://github-readme-stats.vercel.app/api?username=cjhw&show_icons=true&theme=radical) 
+
+
+<img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif"> 
+<br></br>
   
 ### 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cjhw&theme=algolia" alt="candida18"  /></p>
