@@ -28,7 +28,9 @@
 
 <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=cjhw98&theme=cobalt&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=cjhw98&theme=dark&hide_border=true" />
+  
+### 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cjhw&theme=algolia" alt="candida18"  /></p>
 
 ### 技术栈
 
