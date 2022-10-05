@@ -24,7 +24,7 @@
 
 ### **github stats:**
 
-![](https://activity-graph.herokuapp.com/graph?username=cjhw&theme=vue-dark)
+![](https://activity-graph.herokuapp.com/graph?username=cjhw&theme=highcontrast)
 
 ### 技术栈
 
