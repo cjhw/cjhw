@@ -24,7 +24,7 @@
 
 ### **github stats:**
 
-![](https://activity-graph.herokuapp.com/graph?username=cjhw&theme=highcontrast)
+![](https://activity-graph.herokuapp.com/graph?username=cjhw&theme=react)
 
 ### 技术栈
 
