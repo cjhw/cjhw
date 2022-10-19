@@ -26,11 +26,8 @@
 
 ### **github stats:**
   
-<h1>
-    <a href="">
-       [![cjhw's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjhw)](https://github.com/anuraghazra/github-readme-stats)<img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjhw&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
-    </a>
-</h1>
+
+       [![cjhw's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjhw)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif"> 
